@@ -6,7 +6,7 @@ long-range linkage” to reproduce the assemblies described there in.
 For information on how to access the latest version of HiRise, please
 visit http://www.dovetailgenomics.com/services.
 
-# Setup
+## Setup
 
 **NOTE:    
 Where applicable, `/path/to/hirise` will refer to the path of the
@@ -77,7 +77,7 @@ $ wget https://s3-us-west-2.amazonaws.com/dovetail-public-data1/examples.tgz && 
 $ bash hirise_commands.bash
 ```
 
-# Preparing bam files for HiRise
+## Preparing bam files for HiRise
 
 HiRise expects sorted, indexed BAM files containing alignments of
 Chicago reads to a starting assembly to be scaffolded. Read mapping
