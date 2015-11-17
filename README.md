@@ -19,7 +19,9 @@ virtual machine with all the dependencies necessary to run HiRise. To
 use this file, VirtualBox and Vagrant will need to be installed. To
 set up a *Ubuntu 14.04* virtual machine and install all the necessary
 dependencies: 
-``` $ cd /path/to/hirise && vagrant up ```
+``` 
+$ cd /path/to/hirise && vagrant up 
+```
 
 Once the virtual machine is ready:
 ```
