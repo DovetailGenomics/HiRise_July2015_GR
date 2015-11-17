@@ -4,7 +4,7 @@ This release of HiRise is intended to allow readers of our paper
 “Chromosome-scale shotgun assembly using an in vitro method for
 long-range linkage” to reproduce the assemblies described there in.
 For information on how to access the latest version of HiRise, please
-visit http://www.dovetailgenomics.com/support.
+visit http://www.dovetailgenomics.com/services.
 
 # Setup
 
